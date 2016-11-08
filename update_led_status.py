@@ -42,3 +42,6 @@ while (1):
         break
 
 GPIO.cleanup()
+
+
+
